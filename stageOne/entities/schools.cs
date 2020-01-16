@@ -21,7 +21,7 @@ namespace SchoolProy.entities{
             this.Ceo = ceo;
             // Tambien: public Schools(string name, string ceo) => (Name, Ceo) = (name, ceo);
         }
-
+        
         //Sobre carga
         public Schools(string name, string ceo,
                         int fundation, schoolTypes schoolType,
