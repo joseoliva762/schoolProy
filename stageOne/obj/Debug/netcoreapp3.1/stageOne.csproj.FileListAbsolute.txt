@@ -1,0 +1,11 @@
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\bin\Debug\netcoreapp3.1\stageOne.exe
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\bin\Debug\netcoreapp3.1\stageOne.deps.json
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\bin\Debug\netcoreapp3.1\stageOne.runtimeconfig.json
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\bin\Debug\netcoreapp3.1\stageOne.runtimeconfig.dev.json
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\bin\Debug\netcoreapp3.1\stageOne.dll
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\bin\Debug\netcoreapp3.1\stageOne.pdb
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\obj\Debug\netcoreapp3.1\stageOne.csprojAssemblyReference.cache
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\obj\Debug\netcoreapp3.1\stageOne.AssemblyInfoInputs.cache
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\obj\Debug\netcoreapp3.1\stageOne.AssemblyInfo.cs
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\obj\Debug\netcoreapp3.1\stageOne.dll
+C:\Users\joseo\Documents\CS\schoolProy\stageOne\obj\Debug\netcoreapp3.1\stageOne.pdb
