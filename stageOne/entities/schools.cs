@@ -12,6 +12,9 @@ namespace SchoolProy.entities{
         public string Country { get; set; }
         public string City { get; set; }
         public string Ceo { get; set; }
+        public Courses[] Courses { get; set; }
+
+        
 
         public schoolTypes schoolType { get; set; }
         //Métodos.
