@@ -1,6 +1,6 @@
-namespace SchoolProy.entities{
+namespace CoreSchool.entities{
     public enum journeys{
-        morning, afternoon, night, saturday, anyTime
+        Morning, Afternoon, Night, Saturday, AnyTime, Holiday
         
     }
 }

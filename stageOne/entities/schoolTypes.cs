@@ -1,6 +1,6 @@
-namespace SchoolProy.entities{
-    public enum schoolTypes{
-        primary, secundary, preschool
+namespace CoreSchool.entities{
+    public enum SchoolTypes{
+        Primary, Secundary, Preschool
     }
     
 }

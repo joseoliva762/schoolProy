@@ -1,6 +1,12 @@
-namespace SchoolProy.entities{
-    class Schools{
+using System.Collections.Generic;
+using CoreSchool.App;
+using System;
+
+
+namespace CoreSchool.entities{
+    public class Schools{
         //Atributo.
+        public string UniqueId { get; private set; } = Guid.NewGuid().ToString();
         private string name;
         //getters and setters
         public string Name{ //Propiedad.
@@ -12,11 +18,12 @@ namespace SchoolProy.entities{
         public string Country { get; set; }
         public string City { get; set; }
         public string Ceo { get; set; }
-        public Courses[] Courses { get; set; }
-
+        //public Courses[] Courses { get; set; }
+        public List<Courses> Courses { get; set; }
+        public List<Student> Students { get; set; }
         
 
-        public schoolTypes schoolType { get; set; }
+        public SchoolTypes schoolType { get; set; }
         //Métodos.
         //Constructor:
         public Schools(string name, string ceo){
@@ -27,8 +34,8 @@ namespace SchoolProy.entities{
         
         //Sobre carga
         public Schools(string name, string ceo,
-                        int fundation, schoolTypes schoolType,
-                        string city="", string country = "Colombia"){
+                       int fundation, SchoolTypes schoolType,
+                       string city="", string country = "Colombia"){
             this.Name = name;
             this.Ceo = ceo;
             this.Fundation = fundation;
